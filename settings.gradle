@@ -1,1 +1,1 @@
-include ':HelloActionBar'
+include ':HelloActionBar', 'HelloQuotes'
