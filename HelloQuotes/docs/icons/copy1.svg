@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="512"
+   height="512"
+   id="svg3300">
+  <defs
+     id="defs3302">
+    <clipPath
+       id="clipPath32">
+      <path
+         d="M 0,96 96,96 96,0 0,0 0,96 z"
+         id="path34" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata3305">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-540.36218)"
+     id="layer1">
+    <g
+       transform="matrix(8.8821763,0,0,-8.8821763,-171.037,1237.419)"
+       id="g28"
+       style="fill:#ffffff;fill-opacity:1">
+      <g
+         clip-path="url(#clipPath32)"
+         id="g30"
+         style="fill:#ffffff;fill-opacity:1">
+        <g
+           transform="translate(59.9287,37.2949)"
+           id="g36"
+           style="fill:#ffffff;fill-opacity:1">
+          <path
+             d="m 0,0 c -3.469,-1.859 -7.433,-2.92 -11.641,-2.92 -4.204,0 -8.166,1.059 -11.635,2.92 -7.494,-1.969 -13.368,-6.635 -16.058,-16.668 l 55.395,0 C 13.369,-6.633 7.498,-1.967 0,0"
+             id="path38"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        </g>
+        <g
+           transform="translate(49.2285,43.8105)"
+           id="g40"
+           style="fill:#ffffff;fill-opacity:1">
+          <path
+             d="m 0,0 c -5.749,0 -10.807,3.775 -13.754,9.49 l 27.508,0 C 10.807,3.775 5.752,0 0,0 m -0.94,34.563 c -10.653,0 -19.287,-8.634 -19.287,-19.288 0,-10.656 8.634,-19.289 19.287,-19.289 10.656,0 19.29,8.633 19.29,19.289 0,10.654 -8.634,19.288 -19.29,19.288"
+             id="path42"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
